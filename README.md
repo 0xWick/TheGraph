@@ -21,8 +21,8 @@ How to use The Graph to index our events and query them.
 
 * The Graph (graph protocol)
 * GraphQL
-* Hardhat The Graph (graph protocol)
-* GraphQL(Solidity)
+* Hardhat (Solidity)
+* GraphQL
 * Polygon (Mumbai testnet)
 * Chainlink VRF
 
